@@ -1,0 +1,16 @@
+{
+  "credential": {
+    "username": "",
+    "password": ""
+  },
+  "url": "https://localhost:8080",
+  "rtmp_url": "rtmp://localhost:1935/live/",
+  "GPU": 1,
+  "url_login": "/auth/login",
+  "url_models_list": "/api/models",
+  "url_model_files": "/api/models/files",
+  "url_hardware_list": "/api/hardware",
+  "url_hardware_ip": "/ip",
+  "url_hardware_key": "/key",
+  "jetson_name": "Jetson 1"
+}
